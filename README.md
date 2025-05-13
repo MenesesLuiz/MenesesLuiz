@@ -43,7 +43,6 @@ Estudante de **Engenharia de Software** pela Universidade do Estado do Pará (UE
 
 ### ⚡ Curiosidades
 
-- 💪 Treino todos os dias e busco alta performance pessoal com foco extremo em produtividade
 - 🌍 Tenho interesse em trabalhar com tecnologia no exterior (EUA, Alemanha ou Japão)
 - 📖 Estou sempre estudando algo novo – seja uma linguagem, uma técnica de produção musical ou uma ferramenta de automação
 
