@@ -1,5 +1,7 @@
 ### 👋 Olá! Eu sou o Luiz Felipe
 
+🇺🇸 [About me in english] https://github.com/MenesesLuiz/MenesesLuiz-english
+
 Estudante de **Engenharia de Software** pela Universidade do Estado do Pará (UEPA) e apaixonado por tecnologia, inovação e criatividade aplicada à resolução de problemas reais.
 
 ---
