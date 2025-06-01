@@ -8,7 +8,7 @@ Estudante de **Engenharia de Software** pela Universidade do Estado do Pará (UE
 
 ### 🚀 Sobre Mim
 
-- 🎓 Cursando o 2º semestre de Engenharia de Software na **UEPA**
+- 🎓 Cursando Engenharia de Software na **UEPA**
 - 🛡️ Focado em aprender e atuar na área de **Cibersegurança**, com interesse tanto na frente ofensiva (pentest, bug bounty) quanto defensiva (cloud security, DevSecOps)
 - 💻 Desenvolvendo projetos práticos com **Python** e com o foco em segurança e boas práticas
 - 📚 Buscando aprendizado contínuo em programação, segurança, inglês técnico e performance pessoal
