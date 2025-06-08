@@ -34,7 +34,7 @@ Estudante de **Engenharia de Software** pela Universidade do Estado do Pará (UE
 
 ### 📫 Como Me Encontrar
 
-- 💼 [LinkedIn] (https://www.linkedin.com/in/menesesluizf/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/menesesluizf/)
 - ✉️ Email: *menesesluizf@gmail.com*
 
 ---
